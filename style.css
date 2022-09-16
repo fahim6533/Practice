@@ -1,0 +1,56 @@
+.head{
+    background-color: green;
+    position: relative;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin: 20px;
+}
+.com_name{
+    margin-top: 20px;
+}
+
+.second{
+    text-align: center;
+    padding: 40px;
+}
+.details{
+    text-align:center;
+}
+button{
+    background-color: green;
+    color: white;
+    border-color: white;
+    height: 50px;
+    width: 100px;
+    border: green;
+}
+button:hover{
+    background-color: aqua;
+}
+
+.navbar ul li{
+    float: left;
+    margin-left: 40px;
+    
+}
+.navbar ul{
+    list-style: none;
+}
+.image img{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    padding: 20px;
+}
+.image{
+    padding-top: 30px;
+}
+.second{
+    background-image: url("flower.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
